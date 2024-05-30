@@ -1,4 +1,4 @@
-# Base Conversion is converting integer value into number system
+# Base Conversion is converting integer value into number system -- 🔸binary - bin() 🔸Octal - oct()  🔸Hexadecimal - hex()
 
 a = 15
 x = bin(a)
