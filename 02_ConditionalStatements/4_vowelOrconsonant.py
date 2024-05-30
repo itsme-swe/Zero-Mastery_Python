@@ -6,7 +6,7 @@ print('Vowel') if ch == 'a' or ch == 'e' or ch == 'i' or ch == 'o' or ch == 'u' 
 
 print()
 
-#◽ optimized solution by using Membership operator (in,  not in)
+#◽ Optimized solution by using Membership operator (in,  not in)
 
 letter = input('Enter the lower case letter: ')
 

@@ -1,13 +1,10 @@
-# Type Conversion is converting one data type into another data type
+# Type Conversion is converting one data type into another data type --➡️ int(), bol(), str(), float(), complex()
 
 a = 55.25
 
 x = int(a)
 
-print(x)
-print(type(x))
+print(x)        # 55
+print(type(x))  # <class 'int'>
 
-b = 20
-x = bool(b)
 
-print(x)
