@@ -9,5 +9,8 @@ print(ord(v))   # output: 97 ASCII value of "a"
 print(chr(81))  # output: Q ASCII char of 81
 
 '''
-🔸ord() function is used to know the ASCII value of any character
+🔸ord() function is used to know the ASCII value of any character.
+🔸chr() function is used to know the character from value
+
+ASCII codes are only used for english language
 '''
