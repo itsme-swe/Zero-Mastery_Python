@@ -2,7 +2,7 @@
 
 n = int(input('Enter the number: '))
 
-m = n
+m = n       # Storing original number into another variable
 
 rev = 0
 
