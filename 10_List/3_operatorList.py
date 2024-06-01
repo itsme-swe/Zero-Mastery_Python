@@ -21,3 +21,13 @@ print()
 print("Found") if 8 in list1 else print("Not Found")    # Output: Found --- Mostly we used "in" and "not in" operator with conditional statements.
 
 print(15 not in list1)      # Output: True
+
+print()
+
+#◽ " * " operator to concatinate the list
+nwl1 = [2, 4, 6, 8]
+nwl2 = [10, 12, 14]
+
+combinedList = [*nwl1, *nwl2]
+
+print(combinedList)
