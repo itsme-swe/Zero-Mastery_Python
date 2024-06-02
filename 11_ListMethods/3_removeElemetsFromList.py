@@ -12,6 +12,6 @@ print(lst1)     # Output: [10, 5, 12, 20, 25] -- this is the list after passing 
 
 del lst1[0]
 
-print(lst1)     # Output: [5, 12, 20, 25] -- This del listName[indexVal] function work same as pop() method to remoe the element from list 
+print(lst1)     # Output: [5, 12, 20, 25] -- This del listName[indexVal] function work same as pop() method to remove the element from list 
 
 
